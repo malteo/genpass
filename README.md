@@ -1,4 +1,4 @@
-genhost
+genpass
 =======
 
 This script will generate a random password by picking words from the
@@ -19,4 +19,5 @@ Credits
 -------
 
 Shamelessly ripped from [genhost](https://github.com/elasticdog/genhost).
+
 [Password Strength](http://xkcd.com/936/)
