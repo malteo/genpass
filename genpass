@@ -40,4 +40,4 @@ for i in $(seq ${1:-4}); do
   n=$(( n - 1 ))
 done
 
-exit 0
+printf '\n' && exit 0
